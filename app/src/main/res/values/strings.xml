@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProblemStatementP08-Locating a place</string>
+    <string name="desc">ABC Pte Ltd We now have 3 branches. Look below for the address and info</string>
+    <string-array name="array_location">
+        <item>North-HQ</item>
+        <item>Central</item>
+        <item>East</item>
+    </string-array>
+</resources>
